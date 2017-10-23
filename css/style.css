@@ -5,6 +5,9 @@
  *
  * Made By MaterializeCSS.com
  */
+body {
+    background: #000000;
+}
 
 nav ul a,
 nav .brand-logo {
@@ -13,6 +16,26 @@ nav .brand-logo {
 
 p {
   line-height: 2rem;
+  color: #ffffff;
+}
+
+h5 {
+  color: #ffffff;
+}
+
+.cent {
+  text-align: center;
+  color: #ffffff;
+}
+
+.mid-cent {
+  left: 0;
+    line-height: 200px;
+    margin-top: -100px;
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    width: 100%;
 }
 
 .button-collapse {

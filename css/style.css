@@ -64,14 +64,14 @@ h5 {
     position: absolute;
     top: 40%;
   }
-  #index-banner .section {
-    top: 10%;
-  }
 }
 
 @media only screen and (max-width : 600px) {
-  #index-banner .section {
-    top: 0;
+  .mid-cent {
+    margin-top: 15%;
+    text-align: center;
+    top: 50%;
+    width: 100%;
   },
   #logo_row {
     padding-bottom: 0px;

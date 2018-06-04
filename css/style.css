@@ -64,11 +64,17 @@ h5 {
     position: absolute;
     top: 40%;
   }
+  .mid-cent {
+    margin-top: 30%;
+    text-align: center;
+    top: 50%;
+    width: 100%;
+  }
 }
 
 @media only screen and (max-width : 600px) {
   .mid-cent {
-    margin-top: 25%;
+    margin-top: 35%;
     text-align: center;
     top: 50%;
     width: 100%;
@@ -88,7 +94,7 @@ h5 {
 
 @media only screen and (max-width : 400px) {
   .mid-cent {
-    margin-top: 25%;
+    margin-top: 50%;
     text-align: center;
     top: 50%;
     width: 100%;
